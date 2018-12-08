@@ -1,2 +1,3 @@
-# jubeat_chart
-jubeat memo公開用
+# jubeat memo
+
+CN: XENOの書いたjubeat memoの公開用リポジトリです。
